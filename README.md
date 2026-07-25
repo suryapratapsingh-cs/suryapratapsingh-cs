@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:141E30,100:00F5FF&height=220&section=header&text=SURYA_PRATAP_SINGH&fontSize=76&fontColor=00F5FF&fontAlignY=36&animation=fadeIn&desc=Cloud%20%7C%20Security%20%7C%20Full-Stack%20%7C%20GenAI&descAlignY=56&descSize=17&descColor=C9D1D9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:141E30,100:00F5FF&height=220&section=header&text=SURYA+PRATAP+SINGH&fontSize=76&fontColor=00F5FF&fontAlignY=36&animation=fadeIn&desc=Cloud%20%7C%20Security%20%7C%20Full-Stack%20%7C%20GenAI&descAlignY=56&descSize=17&descColor=C9D1D9" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=23&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=720&height=50&lines=GitHub+Campus+Expert+%40+RISU;Cloud+%26+Security+Engineer;Full-Stack+Architect+%2B+GenAI+Builder;Hackathon+Lead+%7C+Open-Source+Incubator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=23&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=720&height=50&lines=Aspiring+GitHub+Campus+Expert;Cloud+%26+Security+Engineer;Full-Stack+Architect+%2B+GenAI+Builder;Open-Source+Incubator" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,15 +23,15 @@
 $ whoami --verbose
 
 > NAME        : Surya Pratap Singh
-> ROLE        : GitHub Campus Expert & Tech Community Lead @ RISU
+> ROLE        : Tech
 > FOCUS       : Cloud Infrastructure · Security Systems · GenAI Integration
-> EDUCATION   : B.Tech CSE (Cybersecurity) — Rungta International Skills University × IBM
+> EDUCATION   : B.Tech CSE (Cybersecurity)
 > MISSION     : Ship systems that scale. Break things safely, on purpose. Teach what I learn.
 ```
 
-- 🛡️ Leading the on-campus developer ecosystem as a **GitHub Campus Expert** — hackathons, workshops, and open-source onboarding for the next generation of builders
-- ☁️ Designing **cloud-native, security-first architectures**, from infrastructure through the application layer
-- 🧠 Integrating LLMs into real, production-shaped systems — RAG pipelines, tool-using agents, vector memory
+- 🛡️ 
+- ☁️
+- 🧠 
 - 🎓 **18+ industry certifications** spanning cloud, AI, and data platforms
 
 <div align="center">
@@ -64,17 +64,6 @@ $ whoami --verbose
 
 <h2 align="center">🗂️ Featured Projects</h2>
 
-### ⚡ VAYU — <!-- 4–6 word tagline about scale/purpose -->
-
-**Problem:** <!-- one line: what gap VAYU closes -->
-**Architecture:** <!-- one line: microservices / event-driven / serverless — however it's actually built -->
-**Impact:** <!-- one line: scale numbers, adoption, or measured outcome -->
-
-`Python` `<!-- add real stack -->`
-
-[🔗 Repository](#) · [🚀 Live Demo](#)
-
----
 
 ### 🧭 Vedic System — Philosophy-Driven Productivity Engine
 
@@ -84,15 +73,6 @@ A personal productivity system that reframes classical Vedic philosophical frame
 
 [🔗 Repository](#)
 
----
-
-### 🤖 Autonomous Agent — JARVIS-Inspired AI Assistant
-
-An experimental personal AI agent combining an LLM API with vector memory (RAG) for persistent context, live web search, and sandboxed code execution — a hands-on exploration of what agentic, tool-using AI actually looks like to build.
-
-`Python` `LLM APIs` `Vector DB` `RAG` `Agentic Tooling`
-
-`🚧 Active R&D` · [🔗 Repository](#)
 
 <br/>
 
@@ -131,7 +111,7 @@ An experimental personal AI agent combining an LLM API with vector memory (RAG) 
   <img alt="contribution snake animation" src="https://raw.githubusercontent.com/suryapratapsingh-cs/suryapratapsingh-cs/output/github-snake.svg" width="100%"/>
 </picture>
 
-<sub>Needs a one-time GitHub Action — workflow given separately below.</sub>
+
 
 </div>
 
