@@ -1,3 +1,17 @@
+<h2 align="center">🐍 Contribution Grid</h2>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suryapratapsingh-cs/suryapratapsingh-cs/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suryapratapsingh-cs/suryapratapsingh-cs/output/github-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/suryapratapsingh-cs/suryapratapsingh-cs/output/github-snake.svg" width="100%"/>
+</picture>
+
+
+
+</div>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:141E30,100:00F5FF&height=220&section=header&text=SURYA+PRATAP+SINGH&fontSize=76&fontColor=00F5FF&fontAlignY=36&animation=fadeIn&desc=Cloud%20%7C%20Security%20%7C%20Full-Stack%20%7C%20GenAI&descAlignY=56&descSize=17&descColor=C9D1D9" width="100%"/>
@@ -29,19 +43,6 @@ $ whoami --verbose
 > MISSION     : Ship systems that scale. Break things safely, on purpose. Teach what I learn.
 ```
 
-<h2 align="center">🐍 Contribution Grid</h2>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suryapratapsingh-cs/suryapratapsingh-cs/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suryapratapsingh-cs/suryapratapsingh-cs/output/github-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/suryapratapsingh-cs/suryapratapsingh-cs/output/github-snake.svg" width="100%"/>
-</picture>
-
-
-
-</div>
 
 <div align="center">
 
