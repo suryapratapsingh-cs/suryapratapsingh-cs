@@ -82,7 +82,6 @@ $ whoami --verbose
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=suryapratapsingh-cs&bg_color=0D1117&color=00F5FF&line=BD00FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
-<sub>Optional — LeetCode heatmap (set your LeetCode handle):</sub>
 <img src="https://leetcard.jacoblin.cool/suryapratapsinghrajput/?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="60%"/>
 
 </div>
