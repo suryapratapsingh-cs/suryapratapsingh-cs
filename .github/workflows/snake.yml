@@ -1,5 +1,4 @@
 name: generate-snake-animation
-
 on:
   schedule:
     - cron: "0 0 * * *"
