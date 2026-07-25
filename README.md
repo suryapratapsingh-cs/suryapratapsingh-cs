@@ -107,7 +107,7 @@ An experimental personal AI agent combining an LLM API with vector memory (RAG) 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&bg_color=0D1117&color=00F5FF&line=BD00FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
 <sub>Optional — LeetCode heatmap (set your LeetCode handle):</sub>
-<img src="https://leetcard.jacoblin.cool/YOUR-LEETCODE-USERNAME?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="60%"/>
+<img src="https://leetcard.jacoblin.cool/suryapratapsinghrajput/?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="60%"/>
 
 </div>
 
@@ -116,7 +116,7 @@ An experimental personal AI agent combining an LLM API with vector memory (RAG) 
 <h2 align="center">🏆 Trophy Case</h2>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=dracula&no-frame=true&no-bg=true&margin-w=15&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=suryapratapsingh-cs&theme=dracula&no-frame=true&no-bg=true&margin-w=15&column=7" width="100%"/>
 </div>
 
 <br/>
@@ -128,7 +128,7 @@ An experimental personal AI agent combining an LLM API with vector memory (RAG) 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-snake.svg" width="100%"/>
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/suryapratapsingh-cs/suryapratapsingh-cs/output/github-snake.svg" width="100%"/>
 </picture>
 
 <sub>Needs a one-time GitHub Action — workflow below.</sub>
@@ -143,7 +143,7 @@ An experimental personal AI agent combining an LLM API with vector memory (RAG) 
 
 <a href="https://linkedin.com/in/suryapratapsinghkalyanwat/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/YOUR-X-HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="mailto:YOUR-EMAIL@domain.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:suryaps.cs@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 
 <br/><br/>
