@@ -29,10 +29,19 @@ $ whoami --verbose
 > MISSION     : Ship systems that scale. Break things safely, on purpose. Teach what I learn.
 ```
 
-- 🛡️ 
-- ☁️
-- 🧠 
-- 🎓 **18+ industry certifications** spanning cloud, AI, and data platforms
+<h2 align="center">🐍 Contribution Grid</h2>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suryapratapsingh-cs/suryapratapsingh-cs/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suryapratapsingh-cs/suryapratapsingh-cs/output/github-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/suryapratapsingh-cs/suryapratapsingh-cs/output/github-snake.svg" width="100%"/>
+</picture>
+
+
+
+</div>
 
 <div align="center">
 
@@ -62,20 +71,6 @@ $ whoami --verbose
 
 <br/>
 
-<h2 align="center">🗂️ Featured Projects</h2>
-
-
-### 🧭 Vedic System — Philosophy-Driven Productivity Engine
-
-A personal productivity system that reframes classical Vedic philosophical frameworks as a structured, modern habit-tracking and self-discipline engine — built entirely in React.
-
-`React` `JavaScript` `Habit Engineering` `Systems Design`
-
-[🔗 Repository](#)
-
-
-<br/>
-
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
@@ -97,22 +92,6 @@ A personal productivity system that reframes classical Vedic philosophical frame
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=suryapratapsingh-cs&theme=dracula&no-frame=true&no-bg=true&margin-w=15&column=7" width="100%"/>
-</div>
-
-<br/>
-
-<h2 align="center">🐍 Contribution Grid</h2>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suryapratapsingh-cs/suryapratapsingh-cs/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suryapratapsingh-cs/suryapratapsingh-cs/output/github-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/suryapratapsingh-cs/suryapratapsingh-cs/output/github-snake.svg" width="100%"/>
-</picture>
-
-
-
 </div>
 
 <br/>
