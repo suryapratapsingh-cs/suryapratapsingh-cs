@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:141E30,100:00F5FF&height=220&section=header&text=SURYA_PRATAP_SINGH&fontSize=76&fontColor=00F5FF&fontAlignY=36&animation=fadeIn&desc=Cloud%20%7C%20Security%20%7C%20GenAI&descAlignY=56&descSize=17&descColor=C9D1D9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:141E30,100:00F5FF&height=220&section=header&text=SURYA_PRATAP_SINGH&fontSize=76&fontColor=00F5FF&fontAlignY=36&animation=fadeIn&desc=Cloud%20%7C%20Security%20%7C%20Full-Stack%20%7C%20GenAI&descAlignY=56&descSize=17&descColor=C9D1D9" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=23&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=720&height=50&lines=Aspiring+GitHub+Campus+Expert;Cloud+%26+Security+Engineer;GenAI+Builder;Open-Source+Incubator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=23&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=720&height=50&lines=GitHub+Campus+Expert+%40+RISU;Cloud+%26+Security+Engineer;Full-Stack+Architect+%2B+GenAI+Builder;Hackathon+Lead+%7C+Open-Source+Incubator" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,9 +23,9 @@
 $ whoami --verbose
 
 > NAME        : Surya Pratap Singh
-> ROLE        : 
+> ROLE        : GitHub Campus Expert & Tech Community Lead @ RISU
 > FOCUS       : Cloud Infrastructure · Security Systems · GenAI Integration
-> EDUCATION   : B.Tech CSE (Cybersecurity) 
+> EDUCATION   : B.Tech CSE (Cybersecurity) — Rungta International Skills University × IBM
 > MISSION     : Ship systems that scale. Break things safely, on purpose. Teach what I learn.
 ```
 
@@ -100,11 +100,11 @@ An experimental personal AI agent combining an LLM API with vector memory (RAG) 
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=00F5FF&icon_color=BD00FF&text_color=C9D1D9" width="49%"/> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=00F5FF&text_color=C9D1D9" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=suryapratapsingh-cs&show_icons=true&hide_border=true&bg_color=00000000&title_color=00F5FF&icon_color=BD00FF&text_color=C9D1D9" width="49%"/> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=suryapratapsingh-cs&layout=compact&hide_border=true&bg_color=00000000&title_color=00F5FF&text_color=C9D1D9" width="49%"/>
 
-<img src="https://streak-stats.demolab.com/?user=YOUR-USERNAME&theme=dark&hide_border=true&background=00000000&ring=00F5FF&fire=BD00FF&currStreakLabel=00F5FF" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=suryapratapsingh-cs&theme=dark&hide_border=true&background=00000000&ring=00F5FF&fire=BD00FF&currStreakLabel=00F5FF" width="70%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&bg_color=0D1117&color=00F5FF&line=BD00FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suryapratapsingh-cs&bg_color=0D1117&color=00F5FF&line=BD00FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
 <sub>Optional — LeetCode heatmap (set your LeetCode handle):</sub>
 <img src="https://leetcard.jacoblin.cool/suryapratapsinghrajput/?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="60%"/>
@@ -126,12 +126,12 @@ An experimental personal AI agent combining an LLM API with vector memory (RAG) 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suryapratapsingh-cs/suryapratapsingh-cs/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suryapratapsingh-cs/suryapratapsingh-cs/output/github-snake.svg" />
   <img alt="contribution snake animation" src="https://raw.githubusercontent.com/suryapratapsingh-cs/suryapratapsingh-cs/output/github-snake.svg" width="100%"/>
 </picture>
 
-<sub>Needs a one-time GitHub Action — workflow below.</sub>
+<sub>Needs a one-time GitHub Action — workflow given separately below.</sub>
 
 </div>
 
