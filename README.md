@@ -43,7 +43,8 @@ $ whoami --verbose
 > MISSION     : Ship systems that scale. Break things safely, on purpose. Teach what I learn.
 ```
 
-
+## 📜 Certifications
+- **eJPT** (eLearnSecurity Junior Penetration Tester) - [Verify Badge](https://credly.com/your-badge-link)
 <div align="center">
 
 <img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
