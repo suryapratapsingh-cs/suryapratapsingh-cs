@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF003C,50:00F5FF,100:00FF41&height=220&section=header&text=SURYA+PRATAP+SINGH&fontSize=76&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Cloud%20%7C%20Security%20%7C%20Full-Stack%20%7C%20GenAI&descAlignY=56&descSize=17&descColor=FFFFFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF003C,50:00F5FF,100:00FF41&height=220&section=header&text=SURYA+PRATAP+SINGH&fontSize=76&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Cloud%20%7C%20Security%20%7C%20GenAI&descAlignY=56&descSize=17&descColor=FFFFFF" width="100%"/>
 
 <a href="https://git.io/typing-svg">
  
