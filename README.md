@@ -22,6 +22,7 @@
 <img src="https://komarev.com/ghpvc/?username=suryapratapsingh-cs&label=Profile%20Views&color=FF003C&style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/github/followers/suryapratapsingh-cs?label=FOLLOWERS&style=for-the-badge&color=00F5FF&labelColor=0D1117" />
 <a href="https://linkedin.com/in/suryapratapsinghkalyanwat/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
+<a href="mailto:suryaps.cs@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/STATUS-Building_%26_Shipping-00FF41?style=for-the-badge&labelColor=0D1117" />
 
 </div>
