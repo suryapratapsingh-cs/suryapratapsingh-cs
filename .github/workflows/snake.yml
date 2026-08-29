@@ -2,8 +2,8 @@ name: Generate Snake Contribution Grid
 
 on:
   schedule:
-    # Runs every 24 hours automatically
-    - cron: "0 0 * * *"
+    # Runs every 12 hours automatically
+    - cron: "0 */12 * * *"
   
   # Allows to manually run the Action at any time
   workflow_dispatch:
