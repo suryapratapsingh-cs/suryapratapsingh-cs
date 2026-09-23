@@ -32,6 +32,12 @@
 <div align="center">
   <!--Hacker Terminal Effect -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=50&lines=INITIALIZING+GHOST+PROTOCOL...;ROOT+ACCESS+ACQUIRED.;OFFENSIVE+SECURITY+%26+THREAT+HUNTING;ZERO-TRUST+CLOUD+ARCHITECT;EXPLOITING+SYSTEMS+TO+SECURE+THEM" alt="Typing SVG" />
+  <br><br>
+
+<!-- System Status Badges -->
+<img src="https://komarev.com/ghpvc/?username=suryapratapsingh-cs&label=Sys_Views&color=FF003C&style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/github/followers/suryapratapsingh-cs?label=Net_Nodes&style=for-the-badge&color=00F5FF&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/STATUS-Monitoring_Network-00FF41?style=for-the-badge&labelColor=0D1117" />
 </div>
 
 ```bash
