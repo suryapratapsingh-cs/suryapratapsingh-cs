@@ -24,21 +24,16 @@
 <a href="https://linkedin.com/in/suryapratapsinghkalyanwat/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
 <a href="mailto:suryaps.cs@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/STATUS-Building_%26_Shipping-00FF41?style=for-the-badge&labelColor=0D1117" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <!--Hacker Terminal Effect -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=50&lines=INITIALIZING+GHOST+PROTOCOL...;ROOT+ACCESS+ACQUIRED.;OFFENSIVE+SECURITY+%26+THREAT+HUNTING;ZERO-TRUST+CLOUD+ARCHITECT;EXPLOITING+SYSTEMS+TO+SECURE+THEM" alt="Typing SVG" />
-  <br><br>
-
 <!-- System Status Badges -->
 <img src="https://komarev.com/ghpvc/?username=suryapratapsingh-cs&label=Sys_Views&color=FF003C&style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/github/followers/suryapratapsingh-cs?label=Net_Nodes&style=for-the-badge&color=00F5FF&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/STATUS-Monitoring_Network-00FF41?style=for-the-badge&labelColor=0D1117" />
 </div>
+
+<div align="center">
+  <!--Hacker Terminal Effect -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=50&lines=INITIALIZING+GHOST+PROTOCOL...;ROOT+ACCESS+ACQUIRED.;OFFENSIVE+SECURITY+%26+THREAT+HUNTING;ZERO-TRUST+CLOUD+ARCHITECT;EXPLOITING+SYSTEMS+TO+SECURE+THEM" alt="Typing SVG" />
+  <br><br>
 
 ```bash
 root@cyber-nexus:~# ./decrypt_target_profile.sh --key=0x8F9A2C
